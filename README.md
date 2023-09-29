@@ -1,3 +1,3 @@
 # codeforces_python
 
-Solutions of Codeforces problems in Python 3.
+Solutions to Codeforces problems in Python 3.
